@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421628538374",
+    "project_id": "enviropulse-8c717",
+    "storage_bucket": "enviropulse-8c717.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421628538374:android:81446df759273f24965d87",
+        "android_client_info": {
+          "package_name": "com.example.enviropulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARM7LiKhtvFc53WLQfgh3ooX9WSYzab2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
