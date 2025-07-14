@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Map<String, dynamic>? weatherData;
   final TextEditingController cityController = TextEditingController();
 
-  final String apiKey = '80b54e95678cc8db79f1bcb7248bbd96'; // 🔁 Add your OpenWeatherMap API key here
+  final String apiKey = 'insert_api_key'; 
 
   @override
   void initState() {
